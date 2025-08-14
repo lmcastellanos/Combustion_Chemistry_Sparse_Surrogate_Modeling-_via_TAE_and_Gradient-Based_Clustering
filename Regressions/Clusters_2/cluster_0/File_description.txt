@@ -1,0 +1,4 @@
+In this folder, it is possible to find part of the results and graphs presented in the paper; first, find the coefficients, intercept, 
+and R2 scores for the this cluster case, which corresponds to the case with all carriers, and considering the K=2 clustering strategy.
+The cluster is evalauted in interpolation and extrapolation conditions. The interpolation conditions are displayed in the folder 
+"regression_results", while the extrapolation case is available in the folder "regression_results_extrapolation". 
