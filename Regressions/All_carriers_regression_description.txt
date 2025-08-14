@@ -1,0 +1,6 @@
+The regressions with all the carriers considered in the publication, are the cases with K=2 and K=4 clustering strategies.
+Therefore, a folder for each case is observed. The nomclature is "Clusters_K". In each folder, it is possible to find some
+.py files, one for each cluster number, starting from 0 to K, with the nomenclature "IDT_clusterK.py". Additionally, each 
+cluster has its own results folder, named "cluster_K". Inside these folders, it is possible to find the resulting regression
+coefficients, intercepts, and the R2 scores in the training data in .csv files. For the clusters which behavior has been 
+described on the paper, further explanations are available inside their respective results folder. 
