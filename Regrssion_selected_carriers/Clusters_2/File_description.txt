@@ -1,0 +1,5 @@
+In this folder, you can find the codes used for implementing the respective regressions using selected carriers, for the clustering strategy K=2. The files "IDT_clusterK.py" contain the respective regressions and k-fold algorithms for each cluster.
+
+The folders named "cluster_K" contain the respective results for each cluster, including the resulting coefficients, intercepts, and training
+datasets R2 scores, each of them in .csv files. Inside these folders, you can find further 'File_descritipon.txt' files in case it is part of
+the results shown on the paper.
