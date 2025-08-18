@@ -1,6 +1,6 @@
 # **Sparse Surrogate Modeling for Combustion Chemistry via Time-Lag Autoencoders and Gradient-Based Clustering.** 
 
-[![DOI](https://zenodo.org/badge/644297612.svg)](https://doi.org/10.5281/zenodo.10034263)
+[![DOI](https://zenodo.org/badge/1037914882.svg)](https://doi.org/10.5281/zenodo.16894259)
 
 <img width="2000" height="1500" alt="graphical_abstract" src="https://github.com/user-attachments/assets/c48faa22-036c-40e0-9975-f1cf3850c57c" />
 
