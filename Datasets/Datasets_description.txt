@@ -1,0 +1,16 @@
+In this folder, the datasets information should be allocated. The data is available in the link: 
+
+https://zenodo.org/records/16893266?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImRmYTc2ZGFhLTcwM2UtNDdkNS1hZmRiLTliNTdmMzRjM2Y4YyIsImRhdGEiOnt9LCJyYW5kb20iOiJjMWU4YjUzODI1ZjcwNTY5ZWMzZDlhODY1MTUyM2U3YSJ9.4zT1G2ANzzIgaCLmxijNB5BunYHKr8-wCkinAyEk4Js7xX-B0vaV62ELZzc2owPYqYa2wDeXtQyfzF6lTkluEg
+
+A Zip file is downloaded. Once it is decompressed,you can find all the data from the ignition trajectories 
+analyzed in the publication. The files maximum_values_T1418.csv holds the valuesused for the magnitude normalization. 
+The "Reaction_rates_cte_pressure_T1418_ste-quarter_phi_j.csv" has the reaction rates values for the j-th ignition
+trajectory, while the files "State_space_cte_pressure_T1418_st-quarter_phi_j.csv" has the respective mass fractions. 
+
+The folder "interpolation" holds the ignition trajectories used for the analysis in interpolation conditions 
+across different clustering strategies (\phi=0.9, 1.0,1.1), while the folder "interpolation-K-4" has the 
+ignition cases for the analysis of cluster_3 in the clustering strategy K=4. 
+
+The folder "extrapolation_case" has the ignition trajectory used for the extrapolation analysis of the cluster_0, 
+for the clustering strategy K=2, while
+using all the carriers as inputs.  
