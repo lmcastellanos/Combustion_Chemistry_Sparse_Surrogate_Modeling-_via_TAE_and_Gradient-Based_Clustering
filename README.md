@@ -2,8 +2,8 @@
 
 <img width="2000" height="1500" alt="graphical_abstract" src="https://github.com/user-attachments/assets/c48faa22-036c-40e0-9975-f1cf3850c57c" />
 
-** Schematic of the proposed methodology for surrogate modeling of chemical kinetics using Time-Lag Autoencoders' dimensionality reduction, and Gradient-Based 
-Clustering. ** This methodology provides accurate surrogate models, even in conditions of sparse data and reduced input size; a test case is shown for the GRI-Mech 2.11 mechanism, allowing for a reduction of 42% in input size, while maintaining accuracy when evaluating in interpolation and extrapolation conditions. 
+**Schematic of the proposed methodology for surrogate modeling of chemical kinetics using Time-Lag Autoencoders' dimensionality reduction, and Gradient-Based 
+Clustering.** This methodology provides accurate surrogate models, even in conditions of sparse data and reduced input size; a test case is shown for the GRI-Mech 2.11 mechanism, allowing for a reduction of 42% in input size, while maintaining accuracy when evaluating in interpolation and extrapolation conditions. 
 
 # **Abstract**
 ----------------------------------------------
