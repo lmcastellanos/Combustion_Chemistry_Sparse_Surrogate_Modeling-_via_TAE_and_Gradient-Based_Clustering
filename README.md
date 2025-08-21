@@ -18,7 +18,7 @@ This work presents a data-driven framework for efficient and interpretable surro
 
 
 This repository contains the codes related to the publication "Sparse Surrogate Modeling for Combustion Chemistry via Time-Lag
-Autoencoders and Gradient-Based Clustering". The codes are organized as follows:
+Autoencoders and Gradient-Based Clustering". To have functional codes, please ensure this repository is allocated in a folder with name "GRIMech_CH4_models_RS3_15_trajectories"in your home directory. The codes are organized as follows:
 
 -Clustering: contains a jupyter notebook with the kmeans algorithm application, it has also the indexes calculation for each 
  clustering strategy. The clustering pictures available in the paper are generated with this notebook. 
