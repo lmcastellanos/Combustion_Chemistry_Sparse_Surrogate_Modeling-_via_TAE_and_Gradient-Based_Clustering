@@ -1,6 +1,6 @@
 In this folder, the datasets information should be allocated. The data is available in the link: 
 
-https://zenodo.org/records/16893266?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImRmYTc2ZGFhLTcwM2UtNDdkNS1hZmRiLTliNTdmMzRjM2Y4YyIsImRhdGEiOnt9LCJyYW5kb20iOiJjMWU4YjUzODI1ZjcwNTY5ZWMzZDlhODY1MTUyM2U3YSJ9.4zT1G2ANzzIgaCLmxijNB5BunYHKr8-wCkinAyEk4Js7xX-B0vaV62ELZzc2owPYqYa2wDeXtQyfzF6lTkluEg
+https://zenodo.org/records/16893266
 
 A Zip file is downloaded. Once it is decompressed,you can find all the data from the ignition trajectories 
 analyzed in the publication. The files maximum_values_T1418.csv holds the valuesused for the magnitude normalization. 
@@ -14,3 +14,5 @@ ignition cases for the analysis of cluster_3 in the clustering strategy K=4.
 The folder "extrapolation_case" has the ignition trajectory used for the extrapolation analysis of the cluster_0, 
 for the clustering strategy K=2, while
 using all the carriers as inputs.  
+
+The folder "interpolation_extremes" contains the ignition trajecotries \phi=0.5 and \phi=1.8, which are representative of the models performance in other clusters/chemical kinetics regimes. 
