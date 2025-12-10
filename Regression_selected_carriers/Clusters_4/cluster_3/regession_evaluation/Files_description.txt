@@ -12,3 +12,5 @@ ignition cases, which are selected throught indexing selection.
 
 Finally, the notebook "GRI-mech_paper_reconstructec_species-R2_histogram.ipynb" builds the R2 scores histogram, and also uses indexing
 for selecting different ignition cases. 
+
+In this case, the -extreme files are available just for the error/accuracy metrics, remember that this cluster was tested in interpolation conditions, with graphs that are available on the paper. 
