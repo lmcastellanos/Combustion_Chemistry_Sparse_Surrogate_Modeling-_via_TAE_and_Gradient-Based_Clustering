@@ -3,3 +3,5 @@ In this folder, you can find the codes used for implementing the respective regr
 The folders named "cluster_K" contain the respective results for each cluster, including the resulting coefficients, intercepts, and training
 datasets R2 scores, each of them in .csv files. Inside these folders, you can find further 'File_descritipon.txt' files in case it is part of
 the results shown on the paper.
+
+he default notebooks are related to the trajectories \phi=0.9 and 1.1, while the notebooks with the mention extreme on the name are related to the trajectories \phi=0.5 and 1.8
